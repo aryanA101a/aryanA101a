@@ -12,12 +12,12 @@ Right now I am looking for new opportunities.
 
 ### Links
 
-- Projects: [github.com/aryanA101a?tab=repositories](https://github.com/shankarpriyank?tab=repositories)
-- Resume: [AryanArora-Resume.pdf](https://github.com/aryanA101a/aryanA101a/files/12848744/AryanArora-Resume.pdf)
+- **Projects:** [github.com/aryanA101a?tab=repositories](https://github.com/shankarpriyank?tab=repositories)
+- **Resume:** [AryanArora-Resume.pdf](https://github.com/aryanA101a/aryanA101a/files/12848744/AryanArora-Resume.pdf)
 
-- LinkedIn: [linkedin.com/in/aryanar0ra](https://www.linkedin.com/in/aryanar0ra/)
+- **LinkedIn:** [linkedin.com/in/aryanar0ra](https://www.linkedin.com/in/aryanar0ra/)
 
 ### Skills
 
-- **Languages** \[Kotlin, Dart, Python, Go, C, C++, Assembly]  
+- **Languages:** \[Kotlin, Dart, Python, Go, C, C++, Assembly]  
 - **Technologies:** \[Native Android, Flutter, BubbleTea, GraphQL, FastAPI, SQL, Firebase, Linux]
