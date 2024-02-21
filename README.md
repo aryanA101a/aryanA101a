@@ -12,8 +12,10 @@ Right now I am looking for new opportunities.
 
 ### Links
 
-- **Projects:** [github.com/aryanA101a?tab=repositories](https://github.com/shankarpriyank?tab=repositories)
-- **Resume:** [AryanArora-Resume.pdf](https://github.com/aryanA101a/aryanA101a/files/12848744/AryanArora-Resume.pdf)
+- **Projects:** [github.com/aryanA101a?tab=repositories](https://github.com/aryanA101a?tab=repositories)
+- **Resume:**
+  1. Full-Stack [AryanArora-Resume-v1.pdf](https://github.com/aryanA101a/aryanA101a/files/14354131/AryanArora-Resume-v1.pdf)
+  2. Low-Level [AryanArora-Resume-v2.pdf](https://github.com/aryanA101a/aryanA101a/files/14354017/resume_v2.pdf)
 
 - **LinkedIn:** [linkedin.com/in/aryanar0ra](https://www.linkedin.com/in/aryanar0ra/)
 
