@@ -15,7 +15,7 @@ Right now I am looking for new opportunities.
 - **Projects:** https://github.com/stars/aryanA101a/lists/aryan-s-portfolio
 - **Resume:**
   1. Full-Stack [AryanArora-Resume-v1.pdf](https://github.com/aryanA101a/aryanA101a/files/14354131/AryanArora-Resume-v1.pdf)
-  2. Low-Level [AryanArora-Resume-v2.pdf](https://github.com/aryanA101a/aryanA101a/files/14354017/resume_v2.pdf)
+  2. Low-Level [AryanArora-Resume-v2.pdf](https://github.com/aryanA101a/aryanA101a/files/15211837/resume_v2.2.pdf)
 
 - **LinkedIn:** [linkedin.com/in/aryanar0ra](https://www.linkedin.com/in/aryanar0ra/)
 
