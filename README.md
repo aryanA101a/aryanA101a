@@ -8,7 +8,7 @@ I’m always looking for new challenges to push my limits and expand my horizons
 
 I have previously worked at **Degpeg** as an **Android Developer Intern**.
 
-Right now I am looking for new opportunities.
+Right now I am working at Viscommerce as a Software Engineer
 
 ### Links
 
