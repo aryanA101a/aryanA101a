@@ -3,7 +3,7 @@
 ### About Me
 I love to work on low-level engineering and backend development, building high-performance systems from the ground up. Whether it's designing a compression tool, optimizing an API, or developing an emulator, I enjoy breaking down complex problems and pushing technical limits. Always up for a challenge.
 
-Right now I am working at Viscommerce as a Software Engineer
+Right now I am working at Viscommerce as a Software Engineer.
 
 ### Links
 - **LinkedIn:** [linkedin.com/in/aryanar0ra](https://www.linkedin.com/in/aryanar0ra/)
