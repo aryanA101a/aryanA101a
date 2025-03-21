@@ -9,5 +9,5 @@ Right now I am working at Viscommerce as a Software Engineer.
 - **LinkedIn:** [linkedin.com/in/aryanar0ra](https://www.linkedin.com/in/aryanar0ra/)
 
 ### Skills
-A quick look at my pinned projects and open-source contributions will give you a good enough picture of my expertise.
+A quick look at my pinned projects and open-source contributions will give you a good enough picture of my expertise.  
 I'll say I am as malleable as silver when it comes to hopping on to new tech, but that doesn’t mean I don’t have strong opinions.
