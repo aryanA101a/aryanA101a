@@ -1,13 +1,23 @@
-# Hi, I am Aryan Arora 👋
+# Hi, I'm Aryan 👋
 
-### About Me
-I love to work on low-level engineering and backend development, building high-performance systems from the ground up. Whether it's designing a compression tool, optimizing an API, or developing an emulator, I enjoy breaking down complex problems and pushing technical limits. Always up for a challenge.
+I'm a software engineer interested in **operating systems, virtualization, and low-level systems programming**. I like getting below the abstractions, understanding how things work, and building things to find out.
 
-Right now I am working at Viscommerce as a Software Engineer.
+### What I've been working on
+
+- **FreeBSD / GSoC 2026** — Worked on networking support for the `kboot` bootloader, including Linux socket ABI integration, resolver support, and a lightweight HTTP/HTTPS client.
+- **[roro-vmm](https://github.com/aryanA101a/roro-vmm)** — Built a minimal virtual machine monitor in C using Linux KVM. It boots an x86-64 Linux kernel and initramfs, with an emulated UART for an interactive console.
+- **Open source** — Improved checksum verification performance in [libzim](https://github.com/openzim/libzim/pull/861) and added IPv6 support to [libkiwix](https://github.com/kiwix/libkiwix/pull/1074).
+
+Before this, I spent two years working on backend and infrastructure systems at VisCommerce.
+
+### Interests & tools
+
+**Interests:** OS internals, KVM/QEMU, memory management, virtualization, and systems performance.
+
+**Tools & languages:** C, Go, Python, Linux, FreeBSD, Git, Make, GDB, and ftrace.
 
 ### Links
-- **LinkedIn:** [linkedin.com/in/aryanar0ra](https://www.linkedin.com/in/aryanar0ra/)
 
-### Skills
-A quick look at my pinned projects and open-source contributions will give you a good enough picture of my expertise.  
-I'll say I am as malleable as silver when it comes to hopping on to new tech, but that doesn’t mean I don’t have strong opinions.
+- **Resume:** [resume.aryanarora.de](https://resume.aryanarora.de)
+- **Website:** [aryanarora.de](https://aryanarora.de)
+- **LinkedIn:** [linkedin.com/in/aryanar0ra](https://www.linkedin.com/in/aryanar0ra/)
